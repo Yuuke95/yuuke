@@ -9,3 +9,4 @@ df.info
 # %%
 df.columns
 # %%
+print("hi")
